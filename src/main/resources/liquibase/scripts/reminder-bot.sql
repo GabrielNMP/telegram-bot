@@ -1,7 +1,7 @@
 -- liquibase formatted sql
 
 -- changeset gabriel:1
-CREATE TABLE reminders
+CREATE TABLE reminder
 (
     id            SERIAL NOT NULL PRIMARY KEY,
     chat_id       BIGINT NOT NULL,
