@@ -1,0 +1,10 @@
+ru.vyacheslav.telegrambot_animalshelter_astana
+ru.vyacheslav.telegrambot_animalshelter_astana.configuration
+ru.vyacheslav.telegrambot_animalshelter_astana.constants
+ru.vyacheslav.telegrambot_animalshelter_astana.controller
+ru.vyacheslav.telegrambot_animalshelter_astana.dto
+ru.vyacheslav.telegrambot_animalshelter_astana.exceptions
+ru.vyacheslav.telegrambot_animalshelter_astana.listener
+ru.vyacheslav.telegrambot_animalshelter_astana.model
+ru.vyacheslav.telegrambot_animalshelter_astana.repository
+ru.vyacheslav.telegrambot_animalshelter_astana.service
